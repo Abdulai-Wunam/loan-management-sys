@@ -97,11 +97,11 @@ class AuthController extends Controller
     {
         if($request->password == $request->cpassword)
         {
-            $user = User::getTokenSingle($remember_token);
+            $user = User::getTokenSingle($token);
             $user->password = Hash::make($request->password );
             $user->save();
 
-            return redirect('login')->with('success', "Password successfully reset.");
+            return redirect(url(''))->with('success', "Password successfully reset.");
         }
         else
         {
