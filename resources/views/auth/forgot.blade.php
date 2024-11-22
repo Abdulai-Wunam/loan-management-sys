@@ -38,7 +38,7 @@
         <div class="row">
           <!-- /.col -->
           <div class="col-4">
-            <button type="submit" class="btn btn-primary btn-block">Forgot</button>
+            <button type="submit" class="btn btn-primary btn-block">Submit</button>
           </div>
           <!-- /.col -->
         </div>
@@ -49,7 +49,7 @@
 
       <p class="mb-1">
         <br />
-        <a href="{{ url('') }}">Login</a>
+        <a href="{{ url('') }}">Login Instead</a>
       </p>
       <p class="mb-0">
       </p>
