@@ -27,7 +27,7 @@
               <div class="inner">
                 <h3>150</h3>
 
-                <p>New Orders</p>
+                <p>Bookings</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
@@ -57,7 +57,7 @@
               <div class="inner">
                 <h3>44</h3>
 
-                <p>User Registrations</p>
+                <p>Loan Officers</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
@@ -92,7 +92,7 @@
               <div class="card-header">
                 <h3 class="card-title">
                   <i class="fas fa-chart-pie mr-1"></i>
-                  Sales
+                  Bookings
                 </h3>
                 <div class="card-tools">
                   <ul class="nav nav-pills ml-auto">

@@ -25,9 +25,9 @@
             <!-- small box -->
             <div class="small-box bg-info">
               <div class="inner">
-                <h3>150</h3>
+                <h3>50</h3>
 
-                <p>New Orders</p>
+                <p>Bookings</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
@@ -55,9 +55,9 @@
             <!-- small box -->
             <div class="small-box bg-warning">
               <div class="inner">
-                <h3>44</h3>
+                <h3>120</h3>
 
-                <p>User Registrations</p>
+                <p>Monthly Target</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
@@ -70,9 +70,9 @@
             <!-- small box -->
             <div class="small-box bg-danger">
               <div class="inner">
-                <h3>65</h3>
+                <h3>70</h3>
 
-                <p>Unique Visitors</p>
+                <p>Target Remaining</p>
               </div>
               <div class="icon">
                 <i class="ion ion-pie-graph"></i>
@@ -92,7 +92,7 @@
               <div class="card-header">
                 <h3 class="card-title">
                   <i class="fas fa-chart-pie mr-1"></i>
-                  Sales
+                  Bookings
                 </h3>
                 <div class="card-tools">
                   <ul class="nav nav-pills ml-auto">
