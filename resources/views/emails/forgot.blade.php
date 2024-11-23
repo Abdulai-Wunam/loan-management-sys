@@ -3,7 +3,7 @@
 
     <p>We understand it happens. </p>
 
-    @component('mail::button', ['url' => url('reset/', $user->remember_token)])
+    @component('mail::button', ['url' => url('reset', $user->remember_token)])
         Reset Your Password
     @endcomponent
 
